@@ -1,5 +1,4 @@
 public class stringcompress {
-    
     public static void main(String[] args) {
         
         String str="aaabbccccddddd";
@@ -30,6 +29,7 @@ public class stringcompress {
        System.out.print("b"+count2);
         System.out.print("c"+count3);
         System.out.println("d"+count4);
+        
     }
     
 }
