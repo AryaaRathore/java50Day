@@ -13,7 +13,7 @@ public class subsequence {
             System.out.println("str2 is a subsequence of str1");
         }
         else{
-            System.out.println("str1 is not a subsequence of str2");
+            System.out.println("str2 is not a subsequence of str1");
         }
     }
 }
