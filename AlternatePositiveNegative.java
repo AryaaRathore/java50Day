@@ -28,7 +28,8 @@ public class AlternatePositiveNegative {
             res[i++]=neg.get(n++);
         }
         for(int j:res){
-        System.out.print(j+" ");
+        
+        System.out.println(j+" ");
         
     }
 }
